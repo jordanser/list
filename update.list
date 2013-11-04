@@ -1,0 +1,75 @@
+#NAME IPTV CHANNELS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/7.ch?u=username&p=password:Novasport1
+#DESCRIPTION 1.- Novasport1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/19.ch?u=username&p=password:novasport2
+#DESCRIPTION 2.- Novasport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/20.ch?u=username&p=password:Novasport3
+#DESCRIPTION 3.- Novasport3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/8.ch?u=username&p=password:Novasport4
+#DESCRIPTION 4.- Novasport4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/28.ch?u=username&p=password:novasports highlights
+#DESCRIPTION 5.- novasports highlights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/25.ch?u=username&p=password:OTE Sport1 HD
+#DESCRIPTION 6.- OTE Sport1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/27.ch?u=username&p=password: OTE Sport2 HD
+#DESCRIPTION 7.- OTE Sport2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/26.ch?u=username&p=password: OTE Sport3 HD
+#DESCRIPTION 8.- OTE Sport3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/17.ch?u=username&p=password:OTE Sport4
+#DESCRIPTION 9.- OTE Sport4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/33.ch?u=username&p=password: OTE Sport5
+#DESCRIPTION 10. OTE Sport5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/14.ch?u=username&p=password:Novacinema1
+#DESCRIPTION 11.- Novacinema1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/30.ch?u=username&p=password:NovacinemaHD
+#DESCRIPTION 12.- NovacinemaHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/22.ch?u=username&p=password:Novacinema2
+#DESCRIPTION 13.- Novacinema2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/23.ch?u=username&p=password:Novacinema3
+#DESCRIPTION 14.- Novacinema3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/24.ch?u=username&p=password:Novacinema4
+#DESCRIPTION 15.- Novacinema4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/16.ch?u=username&p=password:Otecinema1HD
+#DESCRIPTION 16.- Otecinema1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/15.ch?u=username&p=password:Otecinema2
+#DESCRIPTION 17.- Otecinema2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/12.ch?u=username&p=password:Otecinema3
+#DESCRIPTION 18.- Otecinema3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/18.ch?u=username&p=password:vilage
+#DESCRIPTION 20.- vilage
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/5.ch?u=username&p=password:Fox
+#DESCRIPTION 21.- Fox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/4.ch?u=username&p=password:Animal
+#DESCRIPTION 22.-Animal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/37.ch?u=username&p=password:Discovery
+#DESCRIPTION 23.- Discovery Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/36.ch?u=username&p=password:Nat Geo
+#DESCRIPTION 24.- National Geographic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/29.ch?u=username&p=password:History
+#DESCRIPTION 25.- History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/31.ch?u=username&p=password:NatGeo Wild
+#DESCRIPTION 26.- NatGeo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/10.ch?u=username&p=password:Madgreekz
+#DESCRIPTION 27.- Madgreekz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/13.ch?u=username&p=password:MEGA
+#DESCRIPTION 28.- MEGA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/9.ch?u=username&p=password:STAR
+#DESCRIPTION 29.- STAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/1.ch?u=username&p=password:Skai
+#DESCRIPTION 30.- Skai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/2.ch?u=username&p=password:Alpha
+#DESCRIPTION 31.- Alpha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/3.ch?u=username&p=password:ant1
+#DESCRIPTION 32.- ANT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/32.ch?u=username&p=password:kontra
+#DESCRIPTION 33.- kontra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/30.ch?u=username&p=password:EDT
+#DESCRIPTION 34.- EDT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/6.ch?u=username&p=password:epiros
+#DESCRIPTION 35.- epiros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/30.ch?u=username&p=password:Boomerang
+#DESCRIPTION 37.- Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/34.ch?u=username&p=password:Disney Channel 
+#DESCRIPTION 38.- Disney Channel 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/35.ch?u=username&p=password:Fox Life 
+#DESCRIPTION 39.- Fox Life
