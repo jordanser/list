@@ -1,4 +1,4 @@
-#NAME jordan
+#NAME IPTV CHANNELS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/7.ch?u=username&p=password:Novasport1
 #DESCRIPTION 1.- Novasport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-fusion.dyndns.biz%3a7005/19.ch?u=username&p=password:novasport2
